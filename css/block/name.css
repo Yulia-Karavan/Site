@@ -1,0 +1,31 @@
+.name {
+  height: 290px;
+}
+
+.name-content {
+  text-align: center;
+  padding-top: 90px;
+}
+
+.name-heading {
+  color: #1A1A1A;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 60px;
+  line-height: 48px;
+}
+
+.name-content p {
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 62px;
+/* or 388% */
+letter-spacing: 7px;
+color: #757575;
+}
+
+
+

@@ -1,0 +1,35 @@
+.home .container {
+  display: flex;
+}
+
+.home .image {
+  flex: 1;
+  height: 600px;
+}
+
+.home img {
+  position: absolute;
+  width: 585px;
+  /* height: 597; */
+}
+
+.home .text {
+  flex: 1;
+  padding-left: 31px;
+}
+
+.home .text h1 {
+  color: #343434;
+  font-weight: 600;
+  font-size: 30px;  
+  padding-bottom: 20px;
+}
+
+.home p {
+  color: #343434;
+  font-size: 18px;
+  font-weight: 500;
+  line-height: 25px;
+  letter-spacing: -0.143px;
+}
+
